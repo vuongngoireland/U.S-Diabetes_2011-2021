@@ -1,3 +1,6 @@
+**Here is our implementation of approach built for the paper named:**
+### Analyzing and Predicting Diabetes with Deep Learning and Visual Insights.
+
 ### **Dataset Overview:**
 Our dataset comprises 89 features and 561 rows to categorize U.S. states into three diabetes prevalence groups: low (6.0%–8.9%), medium (9.0%–10.9%), and high (11.0%–13.9%). 
 
